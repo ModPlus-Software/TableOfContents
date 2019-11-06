@@ -3,6 +3,9 @@
 
 A list of projects will be published in this repository. Click the **Watching** button to keep abreast of new open source projects
 
+### Core ###
+- [Language Files](https://github.com/ModPlus-Software/Core_LanguageFiles)
+
 ### 06.11.2019 ###
 - Revit: [mprCopySheetsToOpenDocuments](https://github.com/ModPlus-Software/Revit_mprCopySheetsToOpenDocuments)
 - AutoCAD: [mpTxtCopyPaste](https://github.com/ModPlus-Software/AutoCAD_mpTxtCopyPaste)
