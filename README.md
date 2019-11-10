@@ -5,6 +5,7 @@ A list of projects will be published in this repository. Click the **Watching** 
 
 ### Core ###
 - [Language Files](https://github.com/ModPlus-Software/Core_LanguageFiles)
+- [Base](https://github.com/ModPlus-Software/Core_Base)
 - [AutoCAD Modules](https://github.com/ModPlus-Software/Core_AutoCAD_Modules)
 
 ### 06.11.2019 ###
