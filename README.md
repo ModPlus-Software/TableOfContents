@@ -7,7 +7,8 @@ A list of projects will be published in this repository. Click the **Watching** 
 - [Language Files](https://github.com/ModPlus-Software/Core_LanguageFiles)
 - [Base](https://github.com/ModPlus-Software/Core_Base)
 - [AutoCAD Modules](https://github.com/ModPlus-Software/Core_AutoCAD_Modules)
-- [Revit Modules](https://github.com/ModPlus-Software/Core_Revit_Modules/tree/master)
+- [Revit Modules](https://github.com/ModPlus-Software/Core_Revit_Modules)
+- [Renga Modules](https://github.com/ModPlus-Software/Core_Renga_Modules)
 
 ### 06.11.2019 ###
 - Revit: [mprCopySheetsToOpenDocuments](https://github.com/ModPlus-Software/Revit_mprCopySheetsToOpenDocuments)
