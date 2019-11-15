@@ -20,3 +20,5 @@ A list of projects will be published in this repository. Click the **Watching** 
 ### 09.11.2019 ###
 - AutoCAD: [mpTables](https://github.com/ModPlus-Software/AutoCAD_mpTables)
 - AutoCAD: [mpFormats](https://github.com/ModPlus-Software/AutoCAD_mpFormats)
+### 15.11.2019 ###
+- Renga: [mrObjectsFilter](https://github.com/ModPlus-Software/Renga_mrObjectsFilter/tree/master)
