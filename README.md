@@ -11,15 +11,15 @@ A list of projects will be published in this repository. Click the **Watching** 
 - [Renga Modules](https://github.com/ModPlus-Software/Core_Renga_Modules)
 
 ### AutoCAD ###
-- AutoCAD: [mpTxtCopyPaste](https://github.com/ModPlus-Software/AutoCAD_mpTxtCopyPaste)
-- AutoCAD: [mpStripMtext](https://github.com/ModPlus-Software/AutoCAD_mpStripMtext)
-- AutoCAD: [mpTables](https://github.com/ModPlus-Software/AutoCAD_mpTables)
-- AutoCAD: [mpFormats](https://github.com/ModPlus-Software/AutoCAD_mpFormats)
-- AutoCAD [mpDwgBase](https://github.com/ModPlus-Software/AutoCAD_mpDwbBase)
+- [mpTxtCopyPaste](https://github.com/ModPlus-Software/AutoCAD_mpTxtCopyPaste)
+- [mpStripMtext](https://github.com/ModPlus-Software/AutoCAD_mpStripMtext)
+- [mpTables](https://github.com/ModPlus-Software/AutoCAD_mpTables)
+- [mpFormats](https://github.com/ModPlus-Software/AutoCAD_mpFormats)
+- [mpDwgBase](https://github.com/ModPlus-Software/AutoCAD_mpDwbBase)
 ### Revit ###
-- Revit: [mprCopySheetsToOpenDocuments](https://github.com/ModPlus-Software/Revit_mprCopySheetsToOpenDocuments)
-- Revit: [mprFamilyDuplicateFixer](https://github.com/ModPlus-Software/Revit_mprFamilyDuplicateFixer)
-- Revit: [mprCleaner](https://github.com/ModPlus-Software/Revit_mprCleaner)
+- [mprCopySheetsToOpenDocuments](https://github.com/ModPlus-Software/Revit_mprCopySheetsToOpenDocuments)
+- [mprFamilyDuplicateFixer](https://github.com/ModPlus-Software/Revit_mprFamilyDuplicateFixer)
+- [mprCleaner](https://github.com/ModPlus-Software/Revit_mprCleaner)
 ### Renga ###
-- Renga: [mrObjectsFilter](https://github.com/ModPlus-Software/Renga_mrObjectsFilter)
-- Renga: [mrBatchSheetExport](https://github.com/ModPlus-Software/Renga_mrBatchSheetExport)
+- [mrObjectsFilter](https://github.com/ModPlus-Software/Renga_mrObjectsFilter)
+- [mrBatchSheetExport](https://github.com/ModPlus-Software/Renga_mrBatchSheetExport)
