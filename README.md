@@ -17,6 +17,7 @@ A list of projects will be published in this repository. Click the **Watching** 
 - [mpFormats](https://github.com/ModPlus-Software/AutoCAD_mpFormats) - Plugin of inserting in the drawing formats according to GOST 2.301-68/ISO 216
 - [mpDwgBase](https://github.com/ModPlus-Software/AutoCAD_mpDwbBase) - Base of various blocks and drawings
 - [mpMultiScale](https://github.com/ModPlus-Software/AutoCAD_mpMultiScale) - Plugin allows you to scale each of the selected objects relative to themselves
+- [mpPlinesEdit](https://github.com/ModPlus-Software/AutoCAD_mpPlinesEdit) - Collection of various plugins for working with polylines
 ### Revit ###
 - [mprCopySheetsToOpenDocuments](https://github.com/ModPlus-Software/Revit_mprCopySheetsToOpenDocuments) - Batch copy sheets to open documents
 - [mprFamilyDuplicateFixer](https://github.com/ModPlus-Software/Revit_mprFamilyDuplicateFixer) - Automate Duplicate Family Correction
