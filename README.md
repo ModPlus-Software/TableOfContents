@@ -18,6 +18,7 @@ A list of projects will be published in this repository. Click the **Watching** 
 - [mpDwgBase](https://github.com/ModPlus-Software/AutoCAD_mpDwbBase) - Base of various blocks and drawings
 - [mpMultiScale](https://github.com/ModPlus-Software/AutoCAD_mpMultiScale) - Plugin allows you to scale each of the selected objects relative to themselves
 - [mpPlinesEdit](https://github.com/ModPlus-Software/AutoCAD_mpPlinesEdit) - Collection of various plugins for working with polylines
+- [mpRotAtt](https://github.com/ModPlus-Software/AutoCAD_mpRotAtt) - Plugin is used to change the rotation angle of attributes in the selected blocks
 ### Revit ###
 - [mprCopySheetsToOpenDocuments](https://github.com/ModPlus-Software/Revit_mprCopySheetsToOpenDocuments) - Batch copy sheets to open documents
 - [mprFamilyDuplicateFixer](https://github.com/ModPlus-Software/Revit_mprFamilyDuplicateFixer) - Automate Duplicate Family Correction
