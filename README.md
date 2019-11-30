@@ -20,6 +20,7 @@ A list of projects will be published in this repository. Click the **Watching** 
 - [mpPlinesEdit](https://github.com/ModPlus-Software/AutoCAD_mpPlinesEdit) - Collection of various plugins for working with polylines
 - [mpRotAtt](https://github.com/ModPlus-Software/AutoCAD_mpRotAtt) - Plugin is used to change the rotation angle of attributes in the selected blocks
 - [mpTxtCenter](https://github.com/ModPlus-Software/AutoCAD_mpTxtCenter) - Plugin allows you to create a single line text or align the existing one in the middle between two specified points
+- [mpMeshes](https://github.com/ModPlus-Software/AutoCAD_mpMeshes) - Selection and calculation of the mass of reinforcing meshes according to normative documents
 ### Revit ###
 - [mprCopySheetsToOpenDocuments](https://github.com/ModPlus-Software/Revit_mprCopySheetsToOpenDocuments) - Batch copy sheets to open documents
 - [mprFamilyDuplicateFixer](https://github.com/ModPlus-Software/Revit_mprFamilyDuplicateFixer) - Automate Duplicate Family Correction
