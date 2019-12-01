@@ -22,6 +22,7 @@ A list of projects will be published in this repository. Click the **Watching** 
 - [mpTxtCenter](https://github.com/ModPlus-Software/AutoCAD_mpTxtCenter) - Plugin allows you to create a single line text or align the existing one in the middle between two specified points
 - [mpMeshes](https://github.com/ModPlus-Software/AutoCAD_mpMeshes) - Selection and calculation of the mass of reinforcing meshes according to normative documents
 - [mpDimJustif](https://github.com/ModPlus-Software/AutoCAD_mpDimJustif) - Aligning the extension or dimension lines along the specified straight line
+- [mpSummLength](https://github.com/ModPlus-Software/AutoCAD_mpSummLength) - Gets and displays the number and sum of the lengths of selected lines, polylines, circles, arcs and splines
 ### Revit ###
 - [mprCopySheetsToOpenDocuments](https://github.com/ModPlus-Software/Revit_mprCopySheetsToOpenDocuments) - Batch copy sheets to open documents
 - [mprFamilyDuplicateFixer](https://github.com/ModPlus-Software/Revit_mprFamilyDuplicateFixer) - Automate Duplicate Family Correction
