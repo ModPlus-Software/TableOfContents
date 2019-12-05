@@ -29,6 +29,7 @@ A list of projects will be published in this repository. Click the **Watching** 
 - [mprCleaner](https://github.com/ModPlus-Software/Revit_mprCleaner) - Remove objects of certain categories from the model with the ability to remove unused elements
 - [mprFastViewCut](https://github.com/ModPlus-Software/Revit_mprFastViewCut) - Quickly create a crop view by specifying a rectangular crop area
 - [mprTools](https://github.com/ModPlus-Software/Revit_mprTools) - A collection of small auxiliary plugins
+- [mprNestedFamilyParamsTransfer](https://github.com/ModPlus-Software/Revit_mprNestedFamilyParamsTransfer) - Plugin allows you to simplify the work of establishing a associating between the parameters of nested families with the parameters of the parent family
 ### Renga ###
 - [mrObjectsFilter](https://github.com/ModPlus-Software/Renga_mrObjectsFilter) - Filter selected objects by category
 - [mrBatchSheetExport](https://github.com/ModPlus-Software/Renga_mrBatchSheetExport) - Plugin allows you to export all specified sheets to dwg/dxf
