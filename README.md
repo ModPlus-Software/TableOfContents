@@ -24,6 +24,7 @@ A list of projects will be published in this repository. Click the **Watching** 
 - [mpDimJustif](https://github.com/ModPlus-Software/AutoCAD_mpDimJustif) - Aligning the extension or dimension lines along the specified straight line
 - [mpSummLength](https://github.com/ModPlus-Software/AutoCAD_mpSummLength) - Gets and displays the number and sum of the lengths of selected lines, polylines, circles, arcs and splines
 - [mpPrToTable](https://github.com/ModPlus-Software/AutoCAD_mpPrToTable) - Plugin allows you to fill the specification table with the selected ModPlus products
+- [mpHandDim](https://github.com/ModPlus-Software/AutoCAD_mpHandDim) - Color highlight, restore or delete dimensions with an override value
 ### Revit ###
 - [mprCopySheetsToOpenDocuments](https://github.com/ModPlus-Software/Revit_mprCopySheetsToOpenDocuments) - Batch copy sheets to open documents
 - [mprFamilyDuplicateFixer](https://github.com/ModPlus-Software/Revit_mprFamilyDuplicateFixer) - Automate Duplicate Family Correction
