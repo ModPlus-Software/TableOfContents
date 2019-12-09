@@ -35,6 +35,7 @@ A list of projects will be published in this repository. Click the **Watching** 
 - [mprFastViewCut](https://github.com/ModPlus-Software/Revit_mprFastViewCut) - Quickly create a crop view by specifying a rectangular crop area
 - [mprTools](https://github.com/ModPlus-Software/Revit_mprTools) - A collection of small auxiliary plugins
 - [mprNestedFamilyParamsTransfer](https://github.com/ModPlus-Software/Revit_mprNestedFamilyParamsTransfer) - Plugin allows you to simplify the work of establishing a associating between the parameters of nested families with the parameters of the parent family
+- [mpDocTemplates](https://github.com/ModPlus-Software/AutoCAD_mpDocTemplates) - Plugin allows you to create templates of the text part of the section according to "Resolution of the Russian Federation No.87" with the title page according to GOST R 21.1101-2013
 ### Renga ###
 - [mrObjectsFilter](https://github.com/ModPlus-Software/Renga_mrObjectsFilter) - Filter selected objects by category
 - [mrBatchSheetExport](https://github.com/ModPlus-Software/Renga_mrBatchSheetExport) - Plugin allows you to export all specified sheets to dwg/dxf
