@@ -10,7 +10,7 @@ A list of projects will be published in this repository. Click the **Watching** 
 - [Renga Modules](https://github.com/ModPlus-Software/Core_Renga_Modules) - ModPlus initialization loading module in Renga
 
 ### AutoCAD ###
-- [mpTxtCopyPaste](https://github.com/ModPlus-Software/AutoCAD_mpTxtCopyPaste) - Fast copying of single line or multiline text content
+- [mpTxtCopyPaste](https://github.com/ModPlus-Software/AutoCAD_mpTxtCopyPaste) - Fast copying of single line or multiline text content, mleaders, dimensions or table cells
 - [mpStripMtext](https://github.com/ModPlus-Software/AutoCAD_mpStripMtext) - Remove specified formatting from multiline text
 - [mpTables](https://github.com/ModPlus-Software/AutoCAD_mpTables) - Plugin of inserting AutoCAD tables into the drawing according to GOST/DSTU/STB or from the specified file
 - [mpFormats](https://github.com/ModPlus-Software/AutoCAD_mpFormats) - Plugin of inserting in the drawing formats according to GOST 2.301-68/ISO 216
