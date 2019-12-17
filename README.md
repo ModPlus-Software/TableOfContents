@@ -39,6 +39,7 @@ A list of projects will be published in this repository. Click the **Watching** 
 - [mpDocTemplates](https://github.com/ModPlus-Software/AutoCAD_mpDocTemplates) - Plugin allows you to create templates of the text part of the section according to "Resolution of the Russian Federation No.87" with the title page according to GOST R 21.1101-2013
 - [ostViewIn3D](https://github.com/ModPlus-Software/Revit_ostViewIn3D) - Cuts the selected elements in the view cube, with the possibility of specifying the size of the view cube
 - [mmRebarSolidAndVisible](https://github.com/ModPlus-Software/Revit_mmRebarSolidAndVisible) - Change the state of the visibility of the rebar (view unobscured and veiw as solid)
+- [whshScheduleLookup](https://github.com/ModPlus-Software/Revit_whshScheduleLookup) - Search for schedules in a project that contain the specified value
 ### Renga ###
 - [mrObjectsFilter](https://github.com/ModPlus-Software/Renga_mrObjectsFilter) - Filter selected objects by category
 - [mrBatchSheetExport](https://github.com/ModPlus-Software/Renga_mrBatchSheetExport) - Plugin allows you to export all specified sheets to dwg/dxf
