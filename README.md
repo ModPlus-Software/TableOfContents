@@ -42,6 +42,7 @@ A list of projects will be published in this repository. Click the **Watching** 
 - [whshScheduleLookup](https://github.com/ModPlus-Software/Revit_whshScheduleLookup) - Search for schedules in a project that contain the specified value
 - [mprExteriorPlanDimensions](https://github.com/ModPlus-Software/Revit_mprExteriorPlanDimensions) - External dimensions on the floor plan
 - [mprDimBias](https://github.com/ModPlus-Software/Revit_mprDimBias) - Automatic movement of the dimension value that falls on the dimension lines
+- [mprCADmanager](https://github.com/ModPlus-Software/Revit_mprCADmanager) - Manage all imports of dwg files in the current document
 ### Renga ###
 - [mrObjectsFilter](https://github.com/ModPlus-Software/Renga_mrObjectsFilter) - Filter selected objects by category
 - [mrBatchSheetExport](https://github.com/ModPlus-Software/Renga_mrBatchSheetExport) - Plugin allows you to export all specified sheets to dwg/dxf
