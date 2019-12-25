@@ -29,6 +29,7 @@ A list of projects will be published in this repository. Click the **Watching** 
 - [mpDrawOrderByLayer](https://github.com/ModPlus-Software/AutoCAD_mpDrawOrderByLayer) - Plugin serves to change the draworder according to the layers
 - [mpPrPosition](https://github.com/ModPlus-Software/AutoCAD_mpPrPosition) - Plugin adds/removes a position to the selected products and allows position marking of the item
 - [mpBlkReplace](https://github.com/ModPlus-Software/AutoCAD_mpBlkReplace) - Plugin allows quick replacement of blocks in the drawing with a sample block
+- [mpESKD](https://github.com/ModPlus-Software/AutoCAD_mpESKD) - A collection of plugins that creates intelligent objects for drawing up drawings according to the rules of ESKD
 ### Revit ###
 - [mprCopySheetsToOpenDocuments](https://github.com/ModPlus-Software/Revit_mprCopySheetsToOpenDocuments) - Batch copy sheets to open documents
 - [mprFamilyDuplicateFixer](https://github.com/ModPlus-Software/Revit_mprFamilyDuplicateFixer) - Automate Duplicate Family Correction
