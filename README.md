@@ -14,7 +14,7 @@ A list of projects will be published in this repository. Click the **Watching** 
 - [mpStripMtext](https://github.com/ModPlus-Software/AutoCAD_mpStripMtext) - Remove specified formatting from multiline text
 - [mpTables](https://github.com/ModPlus-Software/AutoCAD_mpTables) - Plugin of inserting AutoCAD tables into the drawing according to GOST/DSTU/STB or from the specified file
 - [mpFormats](https://github.com/ModPlus-Software/AutoCAD_mpFormats) - Plugin of inserting in the drawing formats according to GOST 2.301-68/ISO 216
-- [mpDwgBase](https://github.com/ModPlus-Software/AutoCAD_mpDwbBase) - Base of various blocks and drawings
+- [mpDwgBase](https://github.com/ModPlus-Software/AutoCAD_mpDwgBase) - Base of various blocks and drawings
 - [mpMultiScale](https://github.com/ModPlus-Software/AutoCAD_mpMultiScale) - Plugin allows you to scale each of the selected objects relative to themselves
 - [mpPlinesEdit](https://github.com/ModPlus-Software/AutoCAD_mpPlinesEdit) - Collection of various plugins for working with polylines
 - [mpRotAtt](https://github.com/ModPlus-Software/AutoCAD_mpRotAtt) - Plugin is used to change the rotation angle of attributes in the selected blocks
