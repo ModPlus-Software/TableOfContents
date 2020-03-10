@@ -14,6 +14,7 @@ A list of projects will be published in this repository. Click the **Watching** 
 - [mpStripMtext](https://github.com/ModPlus-Software/AutoCAD_mpStripMtext) - Remove specified formatting from multiline text
 - [mpTables](https://github.com/ModPlus-Software/AutoCAD_mpTables) - Plugin of inserting AutoCAD tables into the drawing according to GOST/DSTU/STB or from the specified file
 - [mpFormats](https://github.com/ModPlus-Software/AutoCAD_mpFormats) - Plugin of inserting in the drawing formats according to GOST 2.301-68/ISO 216
+- [mpDocTemplates](https://github.com/ModPlus-Software/AutoCAD_mpDocTemplates) - Plugin allows you to create templates of the text part of the section according to "Resolution of the Russian Federation No.87" with the title page according to GOST R 21.1101-2013
 - [mpDwgBase](https://github.com/ModPlus-Software/AutoCAD_mpDwgBase) - Base of various blocks and drawings
 - [mpMultiScale](https://github.com/ModPlus-Software/AutoCAD_mpMultiScale) - Plugin allows you to scale each of the selected objects relative to themselves
 - [mpPlinesEdit](https://github.com/ModPlus-Software/AutoCAD_mpPlinesEdit) - Collection of various plugins for working with polylines
@@ -38,7 +39,6 @@ A list of projects will be published in this repository. Click the **Watching** 
 - [mprFastViewCut](https://github.com/ModPlus-Software/Revit_mprFastViewCut) - Quickly create a crop view by specifying a rectangular crop area
 - [mprTools](https://github.com/ModPlus-Software/Revit_mprTools) - A collection of small auxiliary plugins
 - [mprNestedFamilyParamsTransfer](https://github.com/ModPlus-Software/Revit_mprNestedFamilyParamsTransfer) - Plugin allows you to simplify the work of establishing a associating between the parameters of nested families with the parameters of the parent family
-- [mpDocTemplates](https://github.com/ModPlus-Software/AutoCAD_mpDocTemplates) - Plugin allows you to create templates of the text part of the section according to "Resolution of the Russian Federation No.87" with the title page according to GOST R 21.1101-2013
 - [ostViewIn3D](https://github.com/ModPlus-Software/Revit_ostViewIn3D) - Cuts the selected elements in the view cube, with the possibility of specifying the size of the view cube
 - [mmRebarSolidAndVisible](https://github.com/ModPlus-Software/Revit_mmRebarSolidAndVisible) - Change the state of the visibility of the rebar (view unobscured and veiw as solid)
 - [whshScheduleLookup](https://github.com/ModPlus-Software/Revit_whshScheduleLookup) - Search for schedules in a project that contain the specified value
