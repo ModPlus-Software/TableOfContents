@@ -8,6 +8,7 @@ A list of projects will be published in this repository. Click the **Watching** 
 - [AutoCAD Modules](https://github.com/ModPlus-Software/Core_AutoCAD_Modules) - ModPlus initialization loading module in AutoCAD
 - [Revit Modules](https://github.com/ModPlus-Software/Core_Revit_Modules) - ModPlus initialization loading module in Revit
 - [Renga Modules](https://github.com/ModPlus-Software/Core_Renga_Modules) - ModPlus initialization loading module in Renga
+- [ModPlusStyle Demo](https://github.com/ModPlus-Software/Core_ModPlusStyle_Demo) - Demo project for acquaintance with the design library ModPlusStyle
 
 ### AutoCAD ###
 - [mpTxtCopyPaste](https://github.com/ModPlus-Software/AutoCAD_mpTxtCopyPaste) - Fast copying of single line or multiline text content, mleaders, dimensions or table cells
