@@ -52,3 +52,4 @@ A list of projects will be published in this repository. Click the **Watching** 
 ### Renga ###
 - [mrObjectsFilter](https://github.com/ModPlus-Software/Renga_mrObjectsFilter) - Filter selected objects by category
 - [mrBatchSheetExport](https://github.com/ModPlus-Software/Renga_mrBatchSheetExport) - Plugin allows you to export all specified sheets to dwg/dxf
+- [mrSearchBy](https://github.com/ModPlus-Software/Renga_mrSearchBy) - Search for objects by various conditions
