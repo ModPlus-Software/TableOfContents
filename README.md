@@ -49,6 +49,7 @@ A list of projects will be published in this repository. Click the **Watching** 
 - [zfiFamilyRenameTool](https://github.com/ModPlus-Software/Revit_zfiFamilyRenameTool) - Batch renaming of parameter names, type names, parameter values in the specified families
 - [mprCopyElementsToOpenDocuments](https://github.com/ModPlus-Software/Revit_mprCopyElementsToOpenDocuments) - Batch elements copying to the opened documents
 - [mmOrderMarking](https://github.com/ModPlus-Software/Revit_mmOrderMarking) - Adding numbering to the specified parameter of elements with the possibility of numbering in the schedules
+- [mprCopyViewTemplateFilters](https://github.com/ModPlus-Software/Revit_mprCopyViewTemplateFilters) - Manage filters of view templates with the ability to copy filters between view templates with saving graphics override settings
 ### Renga ###
 - [mrObjectsFilter](https://github.com/ModPlus-Software/Renga_mrObjectsFilter) - Filter selected objects by category
 - [mrBatchSheetExport](https://github.com/ModPlus-Software/Renga_mrBatchSheetExport) - Plugin allows you to export all specified sheets to dwg/dxf
