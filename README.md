@@ -53,6 +53,7 @@ A list of projects will be published in this repository. Click the **Watching** 
 - [mprCopyViewTemplateFilters](https://github.com/ModPlus-Software/Revit_mprCopyViewTemplateFilters) - Manage filters of view templates with the ability to copy filters between view templates with saving graphics override settings
 - [mprMergeDims](https://github.com/ModPlus-Software/Revit_mprMergeDims) - Create a new dimension chain from selected dimensions that lie on one straight line
 - [mprSplitDimChain](https://github.com/ModPlus-Software/Revit_mprSplitDimChain) - Create new dimensions from segments of the selected dimension chain
+- [mprElevations](https://github.com/ModPlus-Software/Revit_mprElevations/tree/master) - Quick creation of spot dimensions on section and elevation views
 ### Renga ###
 - [mrObjectsFilter](https://github.com/ModPlus-Software/Renga_mrObjectsFilter) - Filter selected objects by category
 - [mrBatchSheetExport](https://github.com/ModPlus-Software/Renga_mrBatchSheetExport) - Plugin allows you to export all specified sheets to dwg/dxf
